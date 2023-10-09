@@ -1,2 +1,2 @@
 # recipes
-Collection of open source? recipes.
+A collection of open source? recipes.
