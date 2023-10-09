@@ -1,2 +1,2 @@
-# sambal
-Recipe for a simple "sambal" like condiment I like to make
+# recipes
+Collection of open source? recipes.
